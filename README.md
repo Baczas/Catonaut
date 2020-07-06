@@ -1,6 +1,7 @@
 # Catonaut
-Meow, I am the space kitty and in future, we will spend a good time together ^.^
+Meow, I am the space kitty and in future, we will spend a good time in this game together ^.^
 
+-You can play the game by running run.py
 -arrows are the control keys
 -to pause game or go to menu click ESC 
 
